@@ -1,2 +1,0 @@
-# Elvis-Osuji
-GitHub Profile
