@@ -10,27 +10,35 @@
     
 - 👯 I’m looking to collaborate on **Front-end & Design Projects**
     
-- 📫 Reach me on E-mail. **elvis.osujic@gmail.com**
+- 📫 Send a mail. **elvis.osujic@gmail.com**
     
 - ⚡ **I love to code & learn.**
 
     
 ## 💼 **Skills**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">HTML/CSS</code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">Javascript</code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue</code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React & Redux</code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript</code>
+
     
-<p align="left" style="margin-left: 30px">
+<!-- <p align="left" style="margin-left: 30px">
 <a href="https://www.figma.com" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9wV8S.png" style="width: 130px"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9mfAp.png" style="width: 130px"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F9m4iW.png" style="width: 130px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.postimg.cc/tJsLsmPK/javascript.png" style="width: 130px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.postimg.cc/Rhm0zW0D/main-reactjs.png" style="width: 110px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.postimg.cc/vm5bhQY8/python-finished.png" style="width: 105px"/> </a> 
-</p>
+</p> -->
     
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories -->
     
 <br/>
 
-## 🥇 Certificates
+## 🥇 Streaks & Info
 
     
 <p align="center">
