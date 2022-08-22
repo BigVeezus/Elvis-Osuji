@@ -13,7 +13,7 @@
 - 📫 Reach me on E-mail. **elvis.osujic@gmail.com**
     
 - ⚡ **I love to code & learn.**
-    
+
     
 ## 💼 **Skills**
     
@@ -29,6 +29,9 @@
 ## 📌 Pinned Repositories
     
 <br/>
+
+## 🥇 Certificates
+
     
 <p align="center">
 <a>
@@ -52,3 +55,11 @@
  <a><img alt="Elvis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BigVeezus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
 <br/>
+
+<p align="center"><strong>Connect with me</strong></p>
+<p align="center"> 
+<a href="mailto:elvis.osujic@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+&nbsp;
+<a href="https://github.com/BigVeezus"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/elvis-osuji-97786a218/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
