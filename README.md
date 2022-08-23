@@ -64,8 +64,8 @@
     
 <br/>
 
-<p align="center"><strong>Connect with me</strong></p>
-<p align="center"> 
+## <p><strong>Connect with me</strong></p>
+<p> 
 <a href="mailto:elvis.osujic@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 &nbsp;
 <a href="https://github.com/BigVeezus"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
