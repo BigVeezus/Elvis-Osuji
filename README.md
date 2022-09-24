@@ -8,7 +8,7 @@
     
 - I’m currently learning **Node Js & Backend Development.**
     
-- 👯 I’m looking to collaborate on **Front-end & Design Projects**
+- 👯 I’m looking to collaborate on **Front-end & Open Source Projects**
     
 - 📫 Send a mail. **elvis.osujic@gmail.com**
     
@@ -23,6 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Typescript</code>
 
     
 <!-- <p align="left" style="margin-left: 30px">
